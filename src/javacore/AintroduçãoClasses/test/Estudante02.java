@@ -1,10 +1,6 @@
-package javacore.introduçãoClasses.test;
+package javacore.AintroduçãoClasses.test;
 
-import javacore.introduçãoClasses.dominio.Estudante;
-
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Objects;
+import javacore.AintroduçãoClasses.dominio.Estudante;
 
 public class Estudante02 {
     public static void main(String[] args) {
